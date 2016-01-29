@@ -1,0 +1,6 @@
+{
+  "name": "dilistinc/html_excerpt",
+  "autoload": {
+    "classmap": ["classes/"]
+  }
+}
